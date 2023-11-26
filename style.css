@@ -1,0 +1,741 @@
+.frame {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.frame .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1920px;
+  height: 8088px;
+  position: relative;
+}
+
+.frame .text-wrapper {
+  width: 943px;
+  height: 473px;
+  top: 1204px;
+  left: 893px;
+  font-family: "Aktiv Grotesk-Light", Helvetica;
+  font-weight: 300;
+  color: #686868;
+  font-size: 24px;
+  line-height: normal;
+  position: absolute;
+  text-align: justify;
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-2 {
+  position: absolute;
+  width: 339px;
+  height: 39px;
+  top: 1421px;
+  left: 237px;
+  font-family: "Neue Kabel-Regular", Helvetica;
+  font-weight: 400;
+  color: #686868;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .line {
+  position: absolute;
+  width: 1px;
+  height: 389px;
+  top: 1247px;
+  left: 814px;
+  object-fit: cover;
+}
+
+.frame .p {
+  position: absolute;
+  width: 943px;
+  height: 417px;
+  top: 3959px;
+  left: 893px;
+  font-family: "Aktiv Grotesk-Light", Helvetica;
+  font-weight: 300;
+  color: #686868;
+  font-size: 24px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-3 {
+  position: absolute;
+  width: 399px;
+  height: 39px;
+  top: 4148px;
+  left: 207px;
+  font-family: "Neue Kabel-Regular", Helvetica;
+  font-weight: 400;
+  color: #686868;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .img {
+  position: absolute;
+  width: 1px;
+  height: 387px;
+  top: 3975px;
+  left: 814px;
+  object-fit: cover;
+}
+
+.frame .stahl-house-simpsons {
+  position: absolute;
+  width: 1109px;
+  height: 625px;
+  top: 2850px;
+  left: 0;
+  object-fit: cover;
+}
+
+.frame .julius-shulman-case {
+  position: absolute;
+  width: 791px;
+  height: 986px;
+  top: 2850px;
+  left: 1129px;
+  object-fit: cover;
+}
+
+.frame .element-stahl-house-case {
+  position: absolute;
+  width: 1920px;
+  height: 1022px;
+  top: 1808px;
+  left: 0;
+  object-fit: cover;
+}
+
+.frame .mask-group {
+  position: absolute;
+  width: 1109px;
+  height: 338px;
+  top: 3495px;
+  left: 0;
+}
+
+.frame .overlap {
+  position: absolute;
+  width: 1920px;
+  height: 3587px;
+  top: 4501px;
+  left: 0;
+}
+
+.frame .rectangle {
+  position: absolute;
+  width: 1920px;
+  height: 823px;
+  top: 0;
+  left: 0;
+  background-color: #000000;
+}
+
+.frame .rectangle-2 {
+  position: absolute;
+  width: 1920px;
+  height: 2764px;
+  top: 823px;
+  left: 0;
+  background-color: #f0f0f0;
+}
+
+.frame .element-stahl-house-case-2 {
+  position: absolute;
+  width: 1755px;
+  height: 1116px;
+  top: 556px;
+  left: 165px;
+  object-fit: cover;
+}
+
+.frame .text-wrapper-4 {
+  position: absolute;
+  width: 403px;
+  height: 60px;
+  top: 301px;
+  left: 180px;
+  font-family: "Neue Kabel-Book", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 48px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .rectangle-3 {
+  position: absolute;
+  width: 1755px;
+  height: 1116px;
+  top: 556px;
+  left: 165px;
+}
+
+.frame .national-register-of {
+  position: absolute;
+  width: 856px;
+  height: 155px;
+  top: 969px;
+  left: 446px;
+  font-family: "Neue Kabel-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 44px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .span {
+  font-family: "Neue Kabel-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 44px;
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-5 {
+  font-family: "Neue Kabel-Light", Helvetica;
+  font-weight: 300;
+}
+
+.frame .text-wrapper-6 {
+  position: absolute;
+  width: 1057px;
+  height: 87px;
+  top: 1225px;
+  left: 446px;
+  font-family: "Aktiv Grotesk-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 15px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-7 {
+  position: absolute;
+  width: 183px;
+  height: 19px;
+  top: 1414px;
+  left: 446px;
+  font-family: "Aktiv Grotesk-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 15px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .arrow {
+  position: absolute;
+  width: 290px;
+  height: 7px;
+  top: 1438px;
+  left: 448px;
+  object-fit: cover;
+}
+
+.frame .text-wrapper-8 {
+  position: absolute;
+  width: 377px;
+  height: 25px;
+  top: 2004px;
+  left: 1461px;
+  font-family: "Aktiv Grotesk-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .line-2 {
+  position: absolute;
+  width: 377px;
+  height: 2px;
+  top: 2062px;
+  left: 1461px;
+}
+
+.frame .text-wrapper-9 {
+  position: absolute;
+  width: 162px;
+  height: 25px;
+  top: 2004px;
+  left: 1086px;
+  font-family: "Aktiv Grotesk-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .line-3 {
+  position: absolute;
+  width: 162px;
+  height: 2px;
+  top: 2062px;
+  left: 1086px;
+}
+
+.frame .text-wrapper-10 {
+  position: absolute;
+  width: 306px;
+  height: 25px;
+  top: 2004px;
+  left: 567px;
+  font-family: "Aktiv Grotesk-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .line-4 {
+  position: absolute;
+  width: 306px;
+  height: 2px;
+  top: 2062px;
+  left: 567px;
+}
+
+.frame .text-wrapper-11 {
+  position: absolute;
+  width: 194px;
+  height: 25px;
+  top: 2004px;
+  left: 165px;
+  font-family: "Aktiv Grotesk-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .line-5 {
+  position: absolute;
+  width: 188px;
+  height: 2px;
+  top: 2062px;
+  left: 165px;
+}
+
+.frame .text-wrapper-12 {
+  width: 38px;
+  height: 20px;
+  top: 2336px;
+  left: 176px;
+  font-family: "Neue Kabel-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  text-align: justify;
+  line-height: normal;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.frame .das-stahl-house-ist {
+  width: 871px;
+  height: 172px;
+  top: 2322px;
+  left: 269px;
+  font-family: "Neue Kabel-Book", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 19px;
+  line-height: 37.1px;
+  position: absolute;
+  text-align: justify;
+  letter-spacing: 0;
+}
+
+.frame .plus {
+  position: absolute;
+  width: 46px;
+  height: 48px;
+  top: 2317px;
+  left: 1694px;
+}
+
+.frame .line-6 {
+  position: absolute;
+  width: 1563px;
+  height: 1px;
+  top: 2216px;
+  left: 177px;
+  object-fit: cover;
+}
+
+.frame .line-7 {
+  position: absolute;
+  width: 1563px;
+  height: 1px;
+  top: 2599px;
+  left: 177px;
+  object-fit: cover;
+}
+
+.frame .text-wrapper-13 {
+  position: absolute;
+  width: 381px;
+  height: 113px;
+  top: 2383px;
+  left: 1175px;
+  font-family: "Aktiv Grotesk-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-14 {
+  position: absolute;
+  width: 186px;
+  height: 23px;
+  top: 2313px;
+  left: 1179px;
+  font-family: "Aktiv Grotesk-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 10px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-15 {
+  width: 40px;
+  height: 20px;
+  top: 2720px;
+  left: 180px;
+  font-family: "Neue Kabel-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  text-align: justify;
+  line-height: normal;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.frame .es-wurde-als-teil {
+  position: absolute;
+  width: 868px;
+  height: 172px;
+  top: 2706px;
+  left: 272px;
+  font-family: "Neue Kabel-Book", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 19px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: 37.1px;
+}
+
+.frame .plus-2 {
+  top: 2701px;
+  left: 1698px;
+  position: absolute;
+  width: 46px;
+  height: 48px;
+}
+
+.frame .line-8 {
+  width: 1562px;
+  top: 2983px;
+  left: 182px;
+  position: absolute;
+  height: 1px;
+  object-fit: cover;
+}
+
+.frame .text-wrapper-16 {
+  width: 380px;
+  top: 2766px;
+  left: 1179px;
+  position: absolute;
+  height: 114px;
+  font-family: "Aktiv Grotesk-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-17 {
+  top: 2697px;
+  left: 1182px;
+  position: absolute;
+  width: 187px;
+  height: 23px;
+  font-family: "Aktiv Grotesk-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 10px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-18 {
+  width: 38px;
+  height: 20px;
+  top: 3104px;
+  left: 182px;
+  font-family: "Neue Kabel-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  text-align: justify;
+  line-height: normal;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.frame .die-konstruktion-des {
+  position: absolute;
+  width: 866px;
+  height: 172px;
+  top: 3090px;
+  left: 274px;
+  font-family: "Neue Kabel-Book", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 19px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: 37.1px;
+}
+
+.frame .plus-3 {
+  top: 3085px;
+  left: 1699px;
+  position: absolute;
+  width: 46px;
+  height: 48px;
+}
+
+.frame .line-9 {
+  width: 1563px;
+  top: 3367px;
+  left: 183px;
+  position: absolute;
+  height: 1px;
+  object-fit: cover;
+}
+
+.frame .text-wrapper-19 {
+  width: 381px;
+  top: 3150px;
+  left: 1180px;
+  position: absolute;
+  height: 114px;
+  font-family: "Aktiv Grotesk-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-20 {
+  top: 3081px;
+  left: 1184px;
+  position: absolute;
+  width: 187px;
+  height: 23px;
+  font-family: "Aktiv Grotesk-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 10px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-21 {
+  position: absolute;
+  width: 1057px;
+  height: 59px;
+  top: 1158px;
+  left: 446px;
+  font-family: "Aktiv Grotesk-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 32px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .titel {
+  position: absolute;
+  width: 1922px;
+  height: 1075px;
+  top: 0;
+  left: 0;
+}
+
+.frame .overlap-group {
+  position: relative;
+  width: 1920px;
+  height: 1075px;
+  background-image: url(./img/mooo-3d-rendering-of-the-silhuette-of-the-stahl-house-at-dayti-b.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.frame .rectangle-4 {
+  position: absolute;
+  width: 1920px;
+  height: 1075px;
+  top: 0;
+  left: 0;
+  background-color: #202020;
+  opacity: 0.2;
+}
+
+.frame .text {
+  position: absolute;
+  width: 799px;
+  height: 151px;
+  top: 391px;
+  left: 73px;
+}
+
+.frame .overlap-group-2 {
+  position: relative;
+  width: 795px;
+  height: 151px;
+}
+
+.frame .PIERRE-KOENIG-s-CASE {
+  position: absolute;
+  width: 795px;
+  top: 0;
+  left: 0;
+  font-family: "Neue Kabel-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 35.5px;
+}
+
+.frame .text-wrapper-22 {
+  font-family: "Neue Kabel-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 35.5px;
+}
+
+.frame .text-wrapper-23 {
+  font-size: 36px;
+}
+
+.frame .text-wrapper-24 {
+  position: absolute;
+  width: 437px;
+  height: 20px;
+  top: 132px;
+  left: 0;
+  font-family: "Neue Kabel-Light", Helvetica;
+  font-weight: 300;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-25 {
+  width: 112px;
+  top: 55px;
+  left: 73px;
+  font-family: "Neue Kabel-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  line-height: 35.5px;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.frame .men {
+  position: absolute;
+  width: 164px;
+  height: 57px;
+  top: 46px;
+  left: 1666px;
+}
+
+.frame .text-wrapper-26 {
+  position: absolute;
+  width: 62px;
+  height: 14px;
+  top: 21px;
+  left: 0;
+  font-family: "Neue Kabel-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.frame .men-2 {
+  position: absolute;
+  width: 57px;
+  height: 57px;
+  top: 0;
+  left: 105px;
+  border-radius: 28.44px;
+  border: 1.5px solid;
+  border-color: #ffffff;
+}
+
+.frame .rectangle-5 {
+  position: absolute;
+  width: 25px;
+  height: 3px;
+  top: 22px;
+  left: 14px;
+  background-color: #ffffff;
+}
+
+.frame .rectangle-6 {
+  position: absolute;
+  width: 25px;
+  height: 3px;
+  top: 30px;
+  left: 14px;
+  background-color: #ffffff;
+}
